@@ -1,0 +1,64 @@
+Product ID,Product Name,Category,Quantity in Stock,Reorder Level,Supplier,Purchase Price,Selling Price,Stock Entry Date,Stock Status
+P001,Wireless Mouse,Electronics,253,48,TechSource Ltd,71.46,96.29,2025-08-27,In Stock
+P002,USB-C Cable,Electronics,770,77,TechSource Ltd,57.15,88.21,2026-06-27,In Stock
+P003,Bluetooth Speaker,Electronics,40,80,FreshMart Wholesale,47.31,62.42,2025-05-21,In Stock
+P004,Webcam HD,Electronics,8,16,,,57.66,2026-01-08,In Stock
+P005,Power Bank 10000mAh,Electronics,81,16,TechSource Ltd,83.59,108.13,2026-03-04,In Stock
+P006,Mechanical Keyboard,Electronics,-4,26,TechSource Ltd,44.76,68.0,2026-07-24,In Stock
+P007,Laptop Stand,Electronics,73,22,OfficeWorld Supplies,78.15,103.58,2026-05-27,In Stock
+P008,HDMI Adapter, ELECTRONICS ,399,75,TechSource Ltd,46.03,53.58,2026-05-14,In Stock
+P009,Noise-Cancelling Earbuds,Electronics,33,33,TechSource Ltd,72.19,89.72,2026-07-13,In Stock
+P010,LED Desk Lamp,Electronics,164,31,TechSource Ltd,65.9,94.11,2025-04-20,In Stock
+P011,A4 Paper Ream,Office Supplies,152,29,OfficeWorld Supplies,15.21,18.55,2026-05-28,In Stock
+P012,Ballpoint Pens (Box),Office Supplies,35,35,OfficeWorld Supplies,9.98,14.48,2025-12-21,In Stock
+P013,Stapler, OFFICE SUPPLIES ,13,76,,11.51,15.69,2025-11-21,In Stock
+P014,Sticky Notes Pack,Office Supplies,151,29,OfficeWorld Supplies,22.42,32.76,2026-09-04,In Stock
+P015,Whiteboard Markers,Office Supplies,136,69,OfficeWorld Supplies,3.62,5.3,2026-02-22,In Stock
+P016,File Folders (Pack),Office Supplies,0,18,OfficeWorld Supplies,11.87,16.35,2026-03-31,In Stock
+P017,Desk Organizer,Office Supplies,445,45,OfficeWorld Supplies,21.71,28.15,2025-08-05,In Stock
+P018,Highlighters (Set),Office Supplies,0,38,OfficeWorld Supplies,12.11,18.4,2025-07-23,In Stock
+P019,Printer Ink Cartridge,Office Supplies,547,55,FreshMart Wholesale,3.8,4.86,2025-11-15,In Stock
+P020,Notebook A5,Office Supplies,82,164,OfficeWorld Supplies,5.42,8.3,2026-06-14,In Stock
+P021,Ergonomic Chair, FURNITURE ,7,14,Prime Furnishings,243.08,359.57,2026-07-13,In Stock
+P022,Standing Desk,Furniture,113,8,Prime Furnishings,415.73,535.89,2025-04-14,In Stock
+P023,Bookshelf,Furniture,32,16,Prime Furnishings,272.07,317.84,2026-02-27,In Stock
+P024,Filing Cabinet,Furniture,28,14,,427.41,540.51,2025-05-24,In Stock
+P025,Visitor Chair,Furniture,3,16,Prime Furnishings,384.47,530.49,2025-06-07,In Stock
+P026,Conference Table,Furniture,27,28,Prime Furnishings,363.73,515.99,2025-11-14,In Stock
+P027,Monitor Arm,Furniture,116,35,Prime Furnishings,334.92,502.4,2026-06-27,In Stock
+P028,Footrest,Furniture,182,19,Prime Furnishings,302.66,437.88,2026-08-03,In Stock
+P029,Storage Locker,Furniture,97,19,Prime Furnishings,85.93,108.23,2025-05-01,In Stock
+P030,Reception Sofa,Furniture,82,83,Prime Furnishings,83.56,107.06,2026-06-30,In Stock
+P031,Instant Coffee 200g,Groceries,15,31,FreshMart Wholesale,12.22,18.82,2025-09-04,In Stock
+P032,Green Tea Box,Groceries,110,33,FreshMart Wholesale,12.67,16.94,2025-12-10,In Stock
+P033,Sugar 1kg,Groceries,0,55,FreshMart Wholesale,13.8,19.66,2025-10-04,In Stock
+P034,Bottled Water 1L (Case), GROCERIES ,58,59,FreshMart Wholesale,16.57,23.66,2025-10-26,In Stock
+P035,Biscuits Assorted,Groceries,269,51,FreshMart Wholesale,17.2,25.6,2025-08-20,In Stock
+P036,Milk Powder 400g,Groceries,20,20,FreshMart Wholesale,8.53,13.4,2026-06-16,In Stock
+P037,Cooking Oil 1L,Groceries,346,173,FreshMart Wholesale,7.64,8.81,2026-05-23,In Stock
+P038,Basmati Rice 5kg,Groceries,217,41,FreshMart Wholesale,13.45,16.76,2026-06-15,In Stock
+P039,Fruit Juice 1L,Groceries,49,50,FreshMart Wholesale,19.02,22.96,2026-04-26,In Stock
+P040,Oat Cereal 500g,Groceries,223,42,FreshMart Wholesale,2.16,3.33,2025-12-03,In Stock
+P041,Hand Sanitizer 500ml,Cleaning,185,56,CleanCo Distributors,11.57,18.3,N/A,In Stock
+P042,Disinfectant Spray,Cleaning,48,49,CleanCo Distributors,15.32,23.44,2025-05-19,In Stock
+P043,Floor Cleaner 1L,Cleaning,152,77,FreshMart Wholesale,4.09,5.07,2025-05-12,In Stock
+P044,Trash Bags (Roll),Cleaning,482,49,CleanCo Distributors,3.82,4.77,2025-07-15,In Stock
+P045,Paper Towels (Pack),Cleaning,86,26,OfficeWorld Supplies,11.22,15.01,2025-08-23,In Stock
+P046,Dish Soap 750ml,Cleaning,423,212,CleanCo Distributors,4.46,6.87,2026-08-10,In Stock
+P047,Glass Cleaner,Cleaning,29,58,CleanCo Distributors,13.55,15.8,2025-06-16,In Stock
+P048,Microfiber Cloths,Cleaning,145,44,TechSource Ltd,16.25,21.66,2025-06-17,In Stock
+P049,Mop Set,Cleaning,63,63,CleanCo Distributors,17.17,25.12,2025-11-11,In Stock
+P050,Toilet Cleaner,Cleaning,248,75,CleanCo Distributors,13.49,18.22,2025-08-13,In Stock
+P051,Cordless Drill,Hardware,10,62,BuildRight Traders,12.2,15.0,2026-04-23,In Stock
+P052,Screwdriver Set,Hardware,118,23,CleanCo Distributors,88.56,110.02,2025-11-19,In Stock
+P053,Measuring Tape,Hardware,63,12,BuildRight Traders,84.96,135.73,2026-09-10,In Stock
+P054,Safety Gloves,Hardware,182,55,BuildRight Traders,61.91,88.51,2026-08-04,In Stock
+P055,LED Bulb 12W,Hardware,170,18,BuildRight Traders,,105.27,2026-05-09,In Stock
+P056,Extension Cord 5m,Hardware,28,9,BuildRight Traders,98.82,132.99,2025-12-16,In Stock
+P057,Adjustable Wrench,Hardware,103,20,BuildRight Traders,78.32,123.09,2025-07-20,In Stock
+P058,Utility Knife,Hardware,1470,98,Prime Furnishings,16.35,23.94,2026-05-31,In Stock
+P059,Ladder 6ft,Hardware,0,80,BuildRight Traders,8.88,13.34,2026-09-08,In Stock
+P060,Toolbox 17in,Hardware,56,28,BuildRight Traders,51.0,63.2,2026-06-07,In Stock
+P040,Oat Cereal 500g,Groceries,223,42,FreshMart Wholesale,2.16,3.33,2025-12-03,In Stock
+P042,Disinfectant Spray,Cleaning,48,49,CleanCo Distributors,15.32,23.44,2025-05-19,In Stock
+P003,Bluetooth Speaker,Electronics,40,80,FreshMart Wholesale,47.31,62.42,2025-05-21,In Stock
